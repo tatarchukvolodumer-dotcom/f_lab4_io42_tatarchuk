@@ -1,0 +1,26 @@
+/* Стан 1: колір, що ставиться при кліку через getElementById */
+.color-first {
+    background-color: #2e7d32;
+    color: #ffffff;
+}
+
+/* Стан 2: колір, що ставиться при кліку через querySelector */
+.color-second {
+    background-color: #f9a825;
+    color: #000000;
+}
+
+.controls {
+    margin-top: 10px;
+}
+
+.controls button {
+    padding: 6px 12px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+#block-11 img {
+    display: block;
+    margin-bottom: 8px;
+}
